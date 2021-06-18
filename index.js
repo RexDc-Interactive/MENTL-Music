@@ -10,7 +10,8 @@ const i18n = require("i18n");
 
 const client = new Client({ 
   disableMentions: "everyone",
-  restTimeOffset: 0
+  restTimeOffset: 0,
+	intents: ['GUILDS', 'GUILD_MESSAGES'] 
 });
 
 client.login(TOKEN);
