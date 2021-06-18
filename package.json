@@ -12,7 +12,7 @@
     "node": ">=14.0.0"
   },
   "dependencies": {
-    "@discordjs/opus": "^0.3.3",
+    "@discordjs/opus": "^0.5.0",
     "array-move": "^3.0.1",
     "discord.js": "^13.0.0-dev.2d12db000f2a0a22a8919d7a63989a6e762ae335",
     "ffmpeg-static": "^4.2.3",
